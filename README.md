@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi, I'm Himanshu 👋  
 
-<!--
-**himm-anshu/himm-anshu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Data Analyst | SQL • Python • Tableau • Power BI  
 
-Here are some ideas to get you started:
+I build end-to-end analytics projects — from raw data cleaning to business dashboards that generate actionable insights.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔹 Core Expertise
+- Data Cleaning & Transformation (Python – Pandas, NumPy)
+- SQL Querying & Business KPI Analysis
+- Interactive Dashboard Development (Tableau / Power BI)
+- Data Storytelling & Insight Communication
+
+---
+
+## 🔹 Featured Projects
+
+### 📊 Telco Customer Churn Analysis
+- Cleaned & transformed raw telecom data using Python  
+- Performed SQL validation & churn segmentation  
+- Built interactive Tableau dashboard  
+- Identified high-risk customer segments  
+
+### 📈 Retail Sales Dashboard
+- End-to-end sales analytics project  
+- KPI tracking & revenue analysis  
+- Business-focused visualization  
+
+---
+
+## 🔹 Tools
+Python • MySQL • Tableau • Power BI • Excel  
+
+---
+
+## 📫 Connect
+Tableau Public:  
+https://public.tableau.com/views/Dashboard_17771682761600/Dashboard1
