@@ -35,11 +35,12 @@ I build end-to-end data analytics and machine learning projects — from data cl
 - Cleaned and engineered a 3,900-record, 18-field shopping dataset in Python, then loaded it into MySQL via the Table Data Import Wizard
 - Wrote SQL queries using CTEs, window functions, and correlated subqueries to segment customers and rank top products
 - Built an interactive Power BI dashboard with 4 KPI cards, 6 visualizations, and 4 slicers covering $233K in revenue
+- 🔗 [Repo](https://github.com/himm-anshu/Customer-Shopping-Analytics)
 
 ### 🏬 Retail Sales Performance Dashboard
 - Cleaned a retail transactions dataset in Python, validated it with SQL, and built an interactive Power BI dashboard
 - KPI cards for Total Revenue, Profit, Profit Margin, and Average Order Value, filterable by City and Product
-- 🔗 [Repo — link coming soon]
+- 🔗 [Repo](https://github.com/himm-anshu/retail-sales-powerbi-dashboard)
 
 ---
 
