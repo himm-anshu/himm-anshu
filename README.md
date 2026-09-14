@@ -56,4 +56,4 @@ Python • SQL (MySQL) • scikit-learn • Pandas • NumPy • Matplotlib • 
 https://linkedin.com/in/himanshu-kumar-645b0728a
 
 **Tableau Public:**
-https://public.tableau.com/views/Dashboard_17771682761600/Dashboard1
+https://public.tableau.com/views/telco_churn_dashboard_17882435873900/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
