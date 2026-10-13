@@ -1,5 +1,5 @@
 # Hi, I'm Himanshu 👋
-### Aspiring Data Analyst | SQL • Python • Machine Learning • Power BI • Tableau
+### Aspiring Data Analyst | SQL • Python • Machine Learning • Web Scraping • Power BI • Tableau
 
 I build end-to-end data analytics and machine learning projects — from data cleaning and SQL analysis to predictive modeling and interactive dashboards that generate actionable business insights.
 
@@ -10,8 +10,9 @@ I build end-to-end data analytics and machine learning projects — from data cl
 - Data Cleaning & Transformation (Python – Pandas, NumPy)
 - SQL Querying & Business KPI Analysis (CTEs, Window Functions, Subqueries)
 - Exploratory Data Analysis (EDA)
+- Web Scraping (Selenium, BeautifulSoup)
 - Machine Learning (scikit-learn – Logistic Regression, Random Forest, GridSearchCV, Model Evaluation)
-- Data Visualization (Matplotlib, Seaborn, Tableau, Power BI)
+- Data Visualization (Matplotlib, Seaborn, Plotly, Tableau, Power BI)
 - Dashboard Development & Data Storytelling
 
 ---
@@ -31,6 +32,12 @@ I build end-to-end data analytics and machine learning projects — from data cl
 - Built an interactive Tableau dashboard (published on Tableau Public) with 3 KPI cards and 6 analytical visualizations
 - 🔗 [Repo](https://github.com/himm-anshu/telco-customer-churn-analysis)
 
+### 📚 Book Market Analysis (Web Scraping)
+- Scraped 1,000 book records across 50 categories from a scraping-practice site (books.toscrape.com) using Selenium and BeautifulSoup, handling pagination
+- Cleaned the data in pandas (price and rating type conversion, validation checks) and excluded 219 books (21.9%) in placeholder categories before category analysis
+- Analysed price, rating and category patterns with groupby, correlation and a t-test; built 6 interactive Plotly charts and found no relationship between price and rating (r = 0.028, p = 0.582)
+- 🔗 [Repo](https://github.com/himm-anshu/books-scraping-project)
+
 ### 🛍️ Customer Shopping Behavior Analytics
 - Cleaned and engineered a 3,900-record, 18-field shopping dataset in Python, then loaded it into MySQL via the Table Data Import Wizard
 - Wrote SQL queries using CTEs, window functions, and correlated subqueries to segment customers and rank top products
@@ -46,7 +53,7 @@ I build end-to-end data analytics and machine learning projects — from data cl
 
 ## 🔹 Tools
 
-Python • SQL (MySQL) • scikit-learn • Pandas • NumPy • Matplotlib • Seaborn • Power BI • Tableau • Excel
+Python • SQL (MySQL) • scikit-learn • Pandas • NumPy • Selenium • BeautifulSoup • Matplotlib • Seaborn • Plotly • Power BI • Tableau • Excel
 
 ---
 
