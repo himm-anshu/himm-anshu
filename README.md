@@ -10,6 +10,7 @@ I build end-to-end data analytics and machine learning projects — from data cl
 - Data Cleaning & Transformation (Python – Pandas, NumPy)
 - SQL Querying & Business KPI Analysis (CTEs, Window Functions, Subqueries)
 - Exploratory Data Analysis (EDA)
+- Statistical Testing (Chi-square, t-test, Effect Size)
 - Web Scraping (Selenium, BeautifulSoup)
 - Machine Learning (scikit-learn – Logistic Regression, Random Forest, GridSearchCV, Model Evaluation)
 - Data Visualization (Matplotlib, Seaborn, Plotly, Tableau, Power BI)
@@ -29,6 +30,7 @@ I build end-to-end data analytics and machine learning projects — from data cl
 ### 📊 Telco Customer Churn Analysis
 - Cleaned and validated 7,043 customer records using Python (Pandas)
 - Wrote SQL queries in MySQL to validate and analyze a 26.54% overall churn rate and highest-risk segments
+- Ran a chi-square test (contract type vs churn: χ² = 1184.6, p < 0.001, Cramér's V = 0.41) and a t-test (churned customers pay $13.18 more per month, p < 0.001)
 - Built an interactive Tableau dashboard (published on Tableau Public) with 3 KPI cards and 6 analytical visualizations
 - 🔗 [Repo](https://github.com/himm-anshu/telco-customer-churn-analysis)
 
