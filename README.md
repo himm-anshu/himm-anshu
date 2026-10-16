@@ -1,5 +1,5 @@
 # Hi, I'm Himanshu 👋
-### Aspiring Data Analyst | SQL • Python • Machine Learning • Web Scraping • Power BI • Tableau
+### Aspiring Data Analyst | SQL • Python • Excel • Machine Learning • Web Scraping • Power BI • Tableau
 
 I build end-to-end data analytics and machine learning projects — from data cleaning and SQL analysis to predictive modeling and interactive dashboards that generate actionable business insights.
 
@@ -9,6 +9,7 @@ I build end-to-end data analytics and machine learning projects — from data cl
 
 - Data Cleaning & Transformation (Python – Pandas, NumPy)
 - SQL Querying & Business KPI Analysis (CTEs, Window Functions, Subqueries)
+- Advanced Excel (Power Query, PivotTables, XLOOKUP, Dashboards)
 - Exploratory Data Analysis (EDA)
 - Statistical Testing (Chi-square, t-test, Effect Size)
 - Web Scraping (Selenium, BeautifulSoup)
@@ -34,6 +35,12 @@ I build end-to-end data analytics and machine learning projects — from data cl
 - Built an interactive Tableau dashboard (published on Tableau Public) with 3 KPI cards and 6 analytical visualizations
 - 🔗 [Repo](https://github.com/himm-anshu/telco-customer-churn-analysis)
 
+### 📦 Amazon India Sales Analysis (Advanced Excel)
+- Cleaned a 128,976-row e-commerce sales file in Power Query: removed 959 duplicates, fixed a date column that mixed two formats, and standardised 69 state spellings to 37
+- Used XLOOKUP, SUMIFS, UNIQUE/FILTER and PivotTables to analyse revenue by category, state and month, and built an interactive Excel dashboard with KPI cards, 4 charts and slicers
+- Found that T-shirts and shirts make up 77% of revenue and that Merchant-fulfilled orders were cancelled more often than Amazon-fulfilled ones (17.4% vs 12.6%)
+- 🔗 [Repo](https://github.com/himm-anshu/amazon-india-sales-excel)
+
 ### 📚 Book Market Analysis (Web Scraping)
 - Scraped 1,000 book records across 50 categories from a scraping-practice site (books.toscrape.com) using Selenium and BeautifulSoup, handling pagination
 - Cleaned the data in pandas (price and rating type conversion, validation checks) and excluded 219 books (21.9%) in placeholder categories before category analysis
@@ -55,7 +62,7 @@ I build end-to-end data analytics and machine learning projects — from data cl
 
 ## 🔹 Tools
 
-Python • SQL (MySQL) • scikit-learn • Pandas • NumPy • Selenium • BeautifulSoup • Matplotlib • Seaborn • Plotly • Power BI • Tableau • Excel
+Python • SQL (MySQL) • scikit-learn • Pandas • NumPy • Selenium • BeautifulSoup • Matplotlib • Seaborn • Plotly • Power BI • Tableau • Excel (Power Query)
 
 ---
 
